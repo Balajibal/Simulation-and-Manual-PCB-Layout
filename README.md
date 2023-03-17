@@ -4,15 +4,22 @@
 To create a schematic, simulate, and manually lay out the PCB for a simple circuit.
 
 ### PROBLEM STATEMENT
+
  Create a schematic for any simple circuit with a minimum of five components
  Simulate and verify the output using Proteus simulation software.
  Draw the layout for a single layer PCB of the given circuit using pencil/pen and paper.
 
 ### EQUIPMENTS REQUIRED
 
+ Proteas software
 
 ### STEPS
 
+1)using proteas software design the circuit diagram using appropriate components
+
+2)Run the simulation and check if the led glows
+
+3)Draw the manual PCB using the circuit diagram
 
 ### CIRCUIT DIAGRAM
 ![Screenshot (5)](https://user-images.githubusercontent.com/75234946/225827100-0fd28d14-77db-49f7-875b-ac7da59cbbe9.png)
