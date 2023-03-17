@@ -15,7 +15,8 @@ To create a schematic, simulate, and manually lay out the PCB for a simple circu
 
 
 ### CIRCUIT DIAGRAM
-![WhatsApp Image 2023-03-17 at 11 32 01 AM](https://user-images.githubusercontent.com/75234946/225826195-e91f3e37-e079-4a51-9077-b4b4b1a3858b.jpeg)
+![Screenshot (5)](https://user-images.githubusercontent.com/75234946/225827100-0fd28d14-77db-49f7-875b-ac7da59cbbe9.png)
+
 
 
 ### SIMULATION OUTPUT
