@@ -20,6 +20,7 @@ To create a schematic, simulate, and manually lay out the PCB for a simple circu
 2)Run the simulation and check if the led glows
 
 3)Draw the manual PCB using the circuit diagram
+<br><br><br><br><br><br>
 
 ### CIRCUIT DIAGRAM
 ![Screenshot (5)](https://user-images.githubusercontent.com/75234946/225827100-0fd28d14-77db-49f7-875b-ac7da59cbbe9.png)
