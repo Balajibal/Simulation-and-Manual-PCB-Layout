@@ -32,7 +32,7 @@ To create a schematic, simulate, and manually lay out the PCB for a simple circu
 ![Screenshot (4)](https://user-images.githubusercontent.com/75234946/225826149-6fdc96e9-7b24-4925-9374-5bd539f95405.png)
 
 
-
+<br><br>
 ### MANUAL PCB LAYOUT (Scanned Image)
 ![WhatsApp Image 2023-03-17 at 11 32 01 AM](https://user-images.githubusercontent.com/75234946/225826360-7a1f0068-3b70-4d0b-93d9-e34cbf375089.jpeg)
 
